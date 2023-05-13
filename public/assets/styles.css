@@ -1,0 +1,232 @@
+body {
+    font-family: "Poppins", sans-serif;
+    color: #282828;
+    overflow-x: hidden;
+}
+
+nav {
+    padding: 32px 0px !important;
+}
+
+nav .navbar-collapse ul li a {
+    margin-right: 61px;
+    color: #048245 !important;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+nav .navbar-collapse ul li:last-child a {
+    margin-right: 0px;
+}
+
+nav .navbar-collapse ul li:last-child {
+    margin-right: 0px;
+}
+
+.header-page {
+    font-weight: 700;
+    font-size: 40px;
+    color: #048245;
+}
+
+footer {
+    background-color: #048245;
+    color: white;
+    padding: 80px 0px;
+}
+
+footer h3 {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+footer p {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+footer .menu a {
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5px;
+}
+
+footer .menu a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.beranda {
+    overflow-x: hidden;
+}
+
+.beranda .jumbo {
+    background-image: url("images/beranda.png");
+    margin-top: -128px;
+    background-repeat: no-repeat;
+}
+
+.beranda .jumbo h1 {
+    margin-top: 400px;
+    font-weight: 700;
+    font-size: 96px;
+    color: white;
+    text-align: center;
+}
+
+.beranda .jumbo p {
+    font-weight: 400;
+    font-size: 32px;
+    color: white;
+    text-align: center;
+}
+
+.beranda .jumbo a {
+    padding: 14px 40px;
+    background-color: white;
+    font-weight: 700;
+    font-size: 24px;
+    color: #048245;
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 290px;
+}
+
+.beranda .jumbo a:hover {
+    color: #048245;
+    text-decoration: none;
+}
+
+.tentang h4 {
+    font-weight: 700;
+    font-size: 32px;
+    color: #048245;
+}
+
+.tentang p {
+    font-weight: 400;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.tentang .visimisi {
+    background-color: #048245;
+    margin-top: 180px;
+    margin-bottom: 130px;
+    padding: 80px 0px;
+}
+
+.tentang .visimisi img {
+    margin-top: 40px;
+}
+
+.tentang .visimisi p {
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    margin-top: 20px;
+    width: 780px;
+}
+
+.tentang .fokusbisnisproduk {
+    margin-bottom: 130px;
+}
+
+.tentang .fokusbisnisproduk h5 {
+    font-weight: 700;
+    font-size: 24px;
+    color: #048245;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.tentang .fokusbisnisproduk .card-fokus-bisnis {
+    background-color: #048245;
+    width: 410px;
+    height: 218px;
+    padding: 30px 50px;
+    color: white;
+}
+
+.tentang .pencapaian {
+    background-color: #048245;
+}
+
+.tentang .pencapaian .box-pencapaian {
+    width: 400px;
+    text-align: center;
+    height: 308px;
+}
+
+.tentang .pencapaian .box-pencapaian h5 {
+    font-weight: 700;
+    font-size: 24px;
+    color: #048245;
+}
+
+.tentang .pencapaian .box-pencapaian p {
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.tentang .founder .nama-founder {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.tentang .founder .list {
+    width: 42px;
+    height: 18px;
+}
+
+.tentang .mitra {
+    margin-bottom: 130px;
+}
+
+.tentang .mitra p {
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.layanan .icon-text {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.nft p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.analisis h3 {
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.analisis p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.analisis ul li {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: justify;
+}
+
+.analisis button {
+    background-color: #048245;
+    border: none;
+}
+
+.analisis button:hover {
+    background-color: #048245;
+}
