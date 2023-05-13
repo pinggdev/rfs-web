@@ -10,7 +10,7 @@ nav {
 
 nav .navbar-collapse ul li a {
     margin-right: 61px;
-    color: #048245 !important;
+    color: #282828 !important;
     font-weight: 400;
     font-size: 20px;
 }
@@ -26,7 +26,7 @@ nav .navbar-collapse ul li:last-child {
 .header-page {
     font-weight: 700;
     font-size: 40px;
-    color: #048245;
+    color: #0099ff;
 }
 
 footer {
@@ -93,7 +93,7 @@ footer .menu a:hover {
 .tentang h4 {
     font-weight: 700;
     font-size: 32px;
-    color: #048245;
+    color: #0099ff;
 }
 
 .tentang p {
@@ -121,28 +121,16 @@ footer .menu a:hover {
     width: 780px;
 }
 
-.tentang .fokusbisnisproduk {
-    margin-bottom: 130px;
+.tentang .vektor1 {
+    margin-bottom: -1px;
 }
 
-.tentang .fokusbisnisproduk h5 {
-    font-weight: 700;
-    font-size: 24px;
-    color: #048245;
-    margin-top: 60px;
-    margin-bottom: 50px;
-}
-
-.tentang .fokusbisnisproduk .card-fokus-bisnis {
-    background-color: #048245;
-    width: 410px;
-    height: 218px;
-    padding: 30px 50px;
-    color: white;
+.tentang .vektor2 {
+    margin-top: -1px;
 }
 
 .tentang .pencapaian {
-    background-color: #048245;
+    background-color: #0099ff;
 }
 
 .tentang .pencapaian .box-pencapaian {
@@ -154,7 +142,7 @@ footer .menu a:hover {
 .tentang .pencapaian .box-pencapaian h5 {
     font-weight: 700;
     font-size: 24px;
-    color: #048245;
+    color: #0099ff;
 }
 
 .tentang .pencapaian .box-pencapaian p {
