@@ -17,9 +17,8 @@
                     <div class="menu">
                         <a href="/">Beranda</a>
                         <a href="/tentang">Tentang Kami</a>
-                        <a href="/nft">Hidroponik NFT</a>
-                        <a href="/spk">SPK</a>
-                        <a href="/layanan">Layanan</a>
+                        <a href="/rfs">Hidroponik Rakit Apung</a>
+                        <a href="/analisis">Analisis</a>
                         <a href="/kontak">Kontak</a>
                         <a href="/galeri">Galeri</a>
                     </div>

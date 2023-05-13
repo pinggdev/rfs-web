@@ -13,13 +13,10 @@
                     <a class="nav-link" href="/tentang">Tentang Kami</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/nft">Hidroponik NFT</a>
+                    <a class="nav-link" href="/rfs">Hidroponik Rakit Apung</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/spk">SPK</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="/layanan">Layanan</a>
+                    <a class="nav-link" href="/analisis">Analisis</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/kontak">Kontak</a>
