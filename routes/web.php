@@ -25,8 +25,8 @@ Route::get('/rfs', function () {
     return view('pages.rfs');
 });
 
-Route::get('/spk', function () {
-    return view('pages.spk');
+Route::get('/analisis', function () {
+    return view('pages.analisis');
 });
 
 Route::get('/kontak', function () {
