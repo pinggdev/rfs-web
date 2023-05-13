@@ -63,40 +63,30 @@ footer .menu a:hover {
     overflow-x: hidden;
 }
 
-.beranda .jumbo {
-    background-image: url("images/beranda.png");
-    margin-top: -128px;
-    background-repeat: no-repeat;
-}
-
 .beranda .jumbo h1 {
-    margin-top: 400px;
     font-weight: 700;
     font-size: 96px;
-    color: white;
-    text-align: center;
 }
 
 .beranda .jumbo p {
     font-weight: 400;
     font-size: 32px;
-    color: white;
-    text-align: center;
 }
 
 .beranda .jumbo a {
     padding: 14px 40px;
-    background-color: white;
+    background-color: #0099ff;
     font-weight: 700;
     font-size: 24px;
-    color: #048245;
+    color: white;
+    border-radius: 20px;
     text-align: center;
     margin-top: 35px;
     margin-bottom: 290px;
 }
 
 .beranda .jumbo a:hover {
-    color: #048245;
+    color: white;
     text-decoration: none;
 }
 
