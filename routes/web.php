@@ -21,12 +21,8 @@ Route::get('/tentang', function () {
     return view('pages.tentang');
 });
 
-Route::get('/layanan', function () {
-    return view('pages.layanan');
-});
-
-Route::get('/nft', function () {
-    return view('pages.nft');
+Route::get('/rfs', function () {
+    return view('pages.rfs');
 });
 
 Route::get('/spk', function () {
