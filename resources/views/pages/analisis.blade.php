@@ -2,33 +2,31 @@
 
 @section('content')
     <section class="analisis">
-        <h2 class="text-center header-page mt-3 container">SPK</h2>
+        <h2 class="text-center header-page mt-3 container">ANALISIS</h2>
             <div class="container">
                 <form>
                     <div class="row mt-5 d-flex justify-content-between">
-                        <div class="col-sm-6">
+                        <div class="col-sm-4">
                             <div class="form-group">
-                                <label for="exampleFormControlSelect1">Skala</label>
+                                <label for="exampleFormControlSelect1">Skala Greenhouse (48m2)</label>
                                 <select class="form-control" id="skala">
                                     <option value="">Pilih Skala...</option>
-                                    <option value="">Greenhouse (48m2)</option>
-                                    <option value="">Perinstalasi (12m2)</option>
+                                    <option value="">Umur ekonomis usaha 5th </option>
+                                    <option value="">Umur ekonomis usaha 10 th</option>
                                 </select>
-                                <div class="row">
-                                    <div class="col-sm-6">
-                                        <small id="skalaHelp" class="form-text text-muted">Greenhouse (48m2) : <br>
-                                            - Umur ekonomis usaha 5th <br>
-                                            - Umur ekonomis usaha 10 th</small>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <small id="skalaHelp" class="form-text text-muted">Perinstalasi (12m2) : <br>
-                                            -Umur ekonomis usaha 5th <br>
-                                            -Umur ekonomis usaha 10 th</small>
-                                    </div>
-                                </div>
                             </div>
                         </div>
-                        <div class="col-sm-6">
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label for="exampleFormControlSelect1">Skala Perinstalasi (12m2)</label>
+                                <select class="form-control" id="skala">
+                                    <option value="">Pilih Skala...</option>
+                                    <option value="">mur ekonomis usaha 5th</option>
+                                    <option value="">Umur ekonomis usaha 10 th</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
                             <div class="form-group">
                                 <label for="exampleFormControlSelect1">Analisis</label>
                                 <select class="form-control" id="skala">

@@ -24,6 +24,22 @@
                                         <p>Jalan Pasar 1 Tembung , Tambak Rejo Desa Amplas 20371</p>
                                     </div>
                                 </div>
+                                <div class="row mt-5">
+                                    <div class="col-sm-2">
+                                        <img src="{{ asset('assets/images/instagram.png') }}" alt="instagram" class="w-0">
+                                    </div>
+                                    <div class="col-sm-10 align-self-center">
+                                        <p>hidroponik_sumut</p>
+                                    </div>
+                                </div>
+                                <div class="row mt-5">
+                                    <div class="col-sm-2">
+                                        <img src="{{ asset('assets/images/tiktok.png') }}" alt="tiktok" class="w-0">
+                                    </div>
+                                    <div class="col-sm-10 align-self-center">
+                                        <p>nazri_dahsyat</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

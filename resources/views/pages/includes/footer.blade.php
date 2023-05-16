@@ -42,6 +42,20 @@
                                 Tambak Rejo Desa Amplas 
                                 20371</td>
                         </tr>
+                        <tr>
+                            <td>Instagram</td>
+                            <td></td>
+                            <td>:</td>
+                            <td></td>
+                            <td>hidroponik_sumut</td>
+                        </tr>
+                        <tr>
+                            <td>Tiktok</td>
+                            <td></td>
+                            <td>:</td>
+                            <td></td>
+                            <td>nazri_dahsyat</td>
+                        </tr>
                     </table>
                 </div>
             </div>
